@@ -21,7 +21,6 @@ markdown-it-py==2.2.0
 markupsafe==2.1.2
 mdurl==0.1.2
 numpy==1.24.3
-openssl==1.1.1t
 packaging==23.1
 pandas==2.0.1
 pillow==9.5.0
